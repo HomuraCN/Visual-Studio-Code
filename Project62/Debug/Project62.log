@@ -1,0 +1,4 @@
+﻿  62.c
+D:\H\Code\Visual Studio 2019\Project62\62.c(12,17): warning C4013: “Factorial”未定义；假设外部返回 int
+D:\H\Code\Visual Studio 2019\Project62\62.c(8,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project62.vcxproj -> D:\H\Code\Visual Studio 2019\Project62\Debug\Project62.exe

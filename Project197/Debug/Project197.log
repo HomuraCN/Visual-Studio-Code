@@ -1,0 +1,6 @@
+﻿  197.cpp
+D:\H\Code\Visual Studio 2019\Project197\197.cpp(24,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project197\197.cpp(31,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project197\197.cpp(67,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project197\197.cpp(70,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project197.vcxproj -> D:\H\Code\Visual Studio 2019\Project197\Debug\Project197.exe

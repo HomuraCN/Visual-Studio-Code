@@ -1,0 +1,12 @@
+﻿  229.cpp
+D:\H\Code\Visual Studio 2019\Project229\229.cpp(11,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“__int64 *”
+D:\H\Code\Visual Studio 2019\Project229\229.cpp(11,8): message : 请考虑在格式字符串中使用“%lld”
+D:\H\Code\Visual Studio 2019\Project229\229.cpp(11,8): message : 请考虑在格式字符串中使用“%I64d”
+D:\H\Code\Visual Studio 2019\Project229\229.cpp(11,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 2 拥有了类型“__int64 *”
+D:\H\Code\Visual Studio 2019\Project229\229.cpp(11,8): message : 请考虑在格式字符串中使用“%lld”
+D:\H\Code\Visual Studio 2019\Project229\229.cpp(11,8): message : 请考虑在格式字符串中使用“%I64d”
+D:\H\Code\Visual Studio 2019\Project229\229.cpp(11,8): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 3 拥有了类型“__int64 *”
+D:\H\Code\Visual Studio 2019\Project229\229.cpp(11,8): message : 请考虑在格式字符串中使用“%lld”
+D:\H\Code\Visual Studio 2019\Project229\229.cpp(11,8): message : 请考虑在格式字符串中使用“%I64d”
+D:\H\Code\Visual Studio 2019\Project229\229.cpp(11,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project229.vcxproj -> D:\H\Code\Visual Studio 2019\Project229\Debug\Project229.exe

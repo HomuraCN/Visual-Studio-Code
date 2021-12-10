@@ -1,0 +1,2 @@
+D:\H\Code\Visual Studio 2019\Project502\Debug\Project502.exe
+D:\H\Code\Visual Studio 2019\Project502\Debug\Project502.pdb

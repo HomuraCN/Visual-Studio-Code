@@ -1,0 +1,9 @@
+﻿  512.cpp
+D:\H\Code\Visual Studio 2019\Project512\512.cpp(5,1): warning C4005: “INFINITY”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : 参见“INFINITY”的前一个定义
+D:\H\Code\Visual Studio 2019\Project512\512.cpp(79,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project512\512.cpp(82,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project512\512.cpp(93,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project512\512.cpp(134,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project512\512.cpp(140,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project512.vcxproj -> D:\H\Code\Visual Studio 2019\Project512\Debug\Project512.exe

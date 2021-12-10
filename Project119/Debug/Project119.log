@@ -1,0 +1,5 @@
+﻿  119.cpp
+D:\H\Code\Visual Studio 2019\Project119\119.cpp(24,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project119\119.cpp(28,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project119\119.cpp(20,22): warning C4101: “temp”: 未引用的局部变量
+  Project119.vcxproj -> D:\H\Code\Visual Studio 2019\Project119\Debug\Project119.exe

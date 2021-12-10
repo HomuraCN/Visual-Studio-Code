@@ -1,0 +1,7 @@
+﻿  257.cpp
+D:\H\Code\Visual Studio 2019\Project257\257.cpp(24,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project257\257.cpp(26,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project257\257.cpp(44,8): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project257\257.cpp(50,8): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project257\257.cpp(52,11): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  Project257.vcxproj -> D:\H\Code\Visual Studio 2019\Project257\Debug\Project257.exe

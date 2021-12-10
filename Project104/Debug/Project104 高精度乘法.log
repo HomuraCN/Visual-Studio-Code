@@ -1,0 +1,3 @@
+﻿  104.cpp
+D:\H\Code\Visual Studio 2019\Project104 高精度乘法\104.cpp(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project104 高精度乘法.vcxproj -> D:\H\Code\Visual Studio 2019\Project104 高精度乘法\Debug\Project104 高精度乘法.exe

@@ -1,0 +1,2 @@
+D:\H\Code\Visual Studio 2019\Project197\Debug\Project197.exe
+D:\H\Code\Visual Studio 2019\Project197\Debug\Project197.pdb

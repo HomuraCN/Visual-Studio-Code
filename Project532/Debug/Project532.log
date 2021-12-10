@@ -1,0 +1,7 @@
+﻿  532.cpp
+D:\H\Code\Visual Studio 2019\Project532\532.cpp(14,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project532\532.cpp(18,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project532\532.cpp(24,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project532\532.cpp(27,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project532\532.cpp(12): warning C4715: “Gcd”: 不是所有的控件路径都返回值
+  Project532.vcxproj -> D:\H\Code\Visual Studio 2019\Project532\Debug\Project532.exe

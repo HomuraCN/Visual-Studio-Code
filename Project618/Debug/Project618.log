@@ -1,0 +1,4 @@
+﻿  618.cpp
+D:\H\Code\Visual Studio 2019\Project618\618.cpp(20,22): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project618\618.cpp(27,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project618.vcxproj -> D:\H\Code\Visual Studio 2019\Project618\Debug\Project618.exe

@@ -1,0 +1,7 @@
+﻿  560.cpp
+D:\H\Code\Visual Studio 2019\Project560\560.cpp(6,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project560\560.cpp(29,13): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project560\560.cpp(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project560\560.cpp(17,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project560\560.cpp(18,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project560.vcxproj -> D:\H\Code\Visual Studio 2019\Project560\Debug\Project560.exe

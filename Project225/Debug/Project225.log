@@ -1,0 +1,7 @@
+﻿  225.cpp
+D:\H\Code\Visual Studio 2019\Project225\225.cpp(49,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\H\Code\Visual Studio 2019\Project225\225.cpp(49,9): message : 请考虑在格式字符串中使用“%lld”
+D:\H\Code\Visual Studio 2019\Project225\225.cpp(49,9): message : 请考虑在格式字符串中使用“%I64d”
+D:\H\Code\Visual Studio 2019\Project225\225.cpp(25,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project225\225.cpp(29,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project225.vcxproj -> D:\H\Code\Visual Studio 2019\Project225\Debug\Project225.exe

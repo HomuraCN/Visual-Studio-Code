@@ -1,0 +1,4 @@
+﻿  98.cpp
+D:\H\Code\Visual Studio 2019\Project98\98.cpp(14,9): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project98\98.cpp(12,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project98.vcxproj -> D:\H\Code\Visual Studio 2019\Project98\Debug\Project98.exe

@@ -1,0 +1,9 @@
+﻿  646.cpp
+D:\H\Code\Visual Studio 2019\Project646\646.cpp(9,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project646\646.cpp(17,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project646\646.cpp(20,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project646\646.cpp(23,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project646\646.cpp(28,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project646\646.cpp(54,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\H\Code\Visual Studio 2019\Project646\646.cpp(76,20): warning C4018: “<”: 有符号/无符号不匹配
+  Project646.vcxproj -> D:\H\Code\Visual Studio 2019\Project646\Debug\Project646.exe

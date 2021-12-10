@@ -1,0 +1,11 @@
+﻿  600.cpp
+D:\H\Code\Visual Studio 2019\Project600\600.cpp(9,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project600\600.cpp(41,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\H\Code\Visual Studio 2019\Project600\600.cpp(48,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\H\Code\Visual Studio 2019\Project600\600.cpp(60,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\H\Code\Visual Studio 2019\Project600\600.cpp(15,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project600\600.cpp(17,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project600\600.cpp(20,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project600\600.cpp(25,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project600\600.cpp(105,20): warning C4018: “<”: 有符号/无符号不匹配
+  Project600.vcxproj -> D:\H\Code\Visual Studio 2019\Project600\Debug\Project600.exe

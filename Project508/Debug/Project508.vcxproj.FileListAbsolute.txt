@@ -1,0 +1,2 @@
+D:\H\Code\Visual Studio 2019\Project508\Debug\Project508.exe
+D:\H\Code\Visual Studio 2019\Project508\Debug\Project508.pdb

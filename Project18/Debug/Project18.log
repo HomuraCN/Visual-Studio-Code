@@ -1,0 +1,3 @@
+﻿  18.c
+D:\H\Code\Visual Studio 2019\Project18\18.c(5,34): warning C4101: “x”: 未引用的局部变量
+  Project18.vcxproj -> D:\H\Code\Visual Studio 2019\Project18\Debug\Project18.exe

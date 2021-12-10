@@ -1,0 +1,15 @@
+﻿  330.cpp
+D:\H\Code\Visual Studio 2019\Project330\330.cpp(4,17): error C2065: “LNode”: 未声明的标识符
+D:\H\Code\Visual Studio 2019\Project330\330.cpp(4,24): error C2065: “L”: 未声明的标识符
+D:\H\Code\Visual Studio 2019\Project330\330.cpp(4,31): error C2062: 意外的类型“int”
+D:\H\Code\Visual Studio 2019\Project330\330.cpp(5,30): error C2065: “LNode”: 未声明的标识符
+D:\H\Code\Visual Studio 2019\Project330\330.cpp(5,37): error C2065: “L”: 未声明的标识符
+D:\H\Code\Visual Studio 2019\Project330\330.cpp(5,44): error C2062: 意外的类型“int”
+D:\H\Code\Visual Studio 2019\Project330\330.cpp(6,20): error C2065: “LNode”: 未声明的标识符
+D:\H\Code\Visual Studio 2019\Project330\330.cpp(6,27): error C2065: “L”: 未声明的标识符
+D:\H\Code\Visual Studio 2019\Project330\330.cpp(6,34): error C2062: 意外的类型“int”
+D:\H\Code\Visual Studio 2019\Project330\330.cpp(7,20): error C2065: “LNode”: 未声明的标识符
+D:\H\Code\Visual Studio 2019\Project330\330.cpp(7,27): error C2065: “L”: 未声明的标识符
+D:\H\Code\Visual Studio 2019\Project330\330.cpp(7,34): error C2062: 意外的类型“int”
+D:\H\Code\Visual Studio 2019\Project330\330.cpp(20,3): error C3861: “ListInsert_DuL”: 找不到标识符
+D:\H\Code\Visual Studio 2019\Project330\330.cpp(22,15): error C3861: “GetElem_DuL”: 找不到标识符

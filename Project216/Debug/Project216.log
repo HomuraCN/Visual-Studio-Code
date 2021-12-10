@@ -1,0 +1,7 @@
+﻿  216.cpp
+D:\H\Code\Visual Studio 2019\Project216\216.cpp(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project216\216.cpp(10,9): warning C4101: “m”: 未引用的局部变量
+D:\H\Code\Visual Studio 2019\Project216\216.cpp(10,6): warning C4101: “n”: 未引用的局部变量
+D:\H\Code\Visual Studio 2019\Project216\216.cpp(53,51): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project216\216.cpp(57,50): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  Project216.vcxproj -> D:\H\Code\Visual Studio 2019\Project216\Debug\Project216.exe

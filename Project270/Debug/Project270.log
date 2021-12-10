@@ -1,0 +1,7 @@
+﻿  270.cpp
+D:\H\Code\Visual Studio 2019\Project270\270.cpp(9,2): warning C4091: “typedef ”: 没有声明变量时忽略“Vertex”的左侧
+D:\H\Code\Visual Studio 2019\Project270\270.cpp(21,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project270\270.cpp(24,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project270\270.cpp(55,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\H\Code\Visual Studio 2019\Project270\270.cpp(61,21): warning C4018: “<”: 有符号/无符号不匹配
+  Project270.vcxproj -> D:\H\Code\Visual Studio 2019\Project270\Debug\Project270.exe

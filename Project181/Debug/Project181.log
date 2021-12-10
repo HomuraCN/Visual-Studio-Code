@@ -1,0 +1,5 @@
+﻿  181.cpp
+D:\H\Code\Visual Studio 2019\Project181\181.cpp(51,20): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project181\181.cpp(19,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project181\181.cpp(23,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project181.vcxproj -> D:\H\Code\Visual Studio 2019\Project181\Debug\Project181.exe

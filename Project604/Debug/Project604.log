@@ -1,0 +1,6 @@
+﻿  604.cpp
+D:\H\Code\Visual Studio 2019\Project604\604.cpp(20,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\H\Code\Visual Studio 2019\Project604\604.cpp(24,14): warning C4018: “<”: 有符号/无符号不匹配
+D:\H\Code\Visual Studio 2019\Project604\604.cpp(24,35): warning C4018: “<”: 有符号/无符号不匹配
+D:\H\Code\Visual Studio 2019\Project604\604.cpp(15,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project604.vcxproj -> D:\H\Code\Visual Studio 2019\Project604\Debug\Project604.exe

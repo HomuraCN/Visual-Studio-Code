@@ -1,0 +1,3 @@
+﻿  11.c
+D:\H\Code\Visual Studio 2019\Project11\11.c(15,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project11.vcxproj -> D:\H\Code\Visual Studio 2019\Project11\Debug\Project11.exe

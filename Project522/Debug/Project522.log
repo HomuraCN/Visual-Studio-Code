@@ -1,0 +1,4 @@
+﻿  522.cpp
+D:\H\Code\Visual Studio 2019\Project522\522.cpp(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project522\522.cpp(12,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project522.vcxproj -> D:\H\Code\Visual Studio 2019\Project522\Debug\Project522.exe

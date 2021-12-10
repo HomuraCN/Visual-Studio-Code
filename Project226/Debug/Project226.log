@@ -1,0 +1,3 @@
+﻿  226.cpp
+D:\H\Code\Visual Studio 2019\Project226\226.cpp(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project226.vcxproj -> D:\H\Code\Visual Studio 2019\Project226\Debug\Project226.exe

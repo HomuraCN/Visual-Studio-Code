@@ -1,0 +1,15 @@
+﻿  321.cpp
+D:\H\Code\Visual Studio 2019\Project321\321.cpp(34,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project321\321.cpp(38,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project321\321.cpp(43,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project321\321.cpp(91,24): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project321\321.cpp(93,25): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project321\321.cpp(95,28): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project321\321.cpp(95,43): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project321\321.cpp(98,28): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project321\321.cpp(98,43): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project321\321.cpp(106,31): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project321\321.cpp(107,25): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project321\321.cpp(108,22): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project321\321.cpp(109,26): warning C4244: “参数”: 从“__int64”转换到“const unsigned int”，可能丢失数据
+  Project321.vcxproj -> D:\H\Code\Visual Studio 2019\Project321\Debug\Project321.exe

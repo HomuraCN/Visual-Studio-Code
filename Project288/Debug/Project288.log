@@ -1,0 +1,6 @@
+﻿  288.cpp
+D:\H\Code\Visual Studio 2019\Project288\288.cpp(29,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\H\Code\Visual Studio 2019\Project288\288.cpp(16,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project288\288.cpp(19,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project288\288.cpp(55,20): warning C4018: “<”: 有符号/无符号不匹配
+  Project288.vcxproj -> D:\H\Code\Visual Studio 2019\Project288\Debug\Project288.exe

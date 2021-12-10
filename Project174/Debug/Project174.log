@@ -1,0 +1,6 @@
+﻿  174.cpp
+D:\H\Code\Visual Studio 2019\Project174\174.cpp(21,25): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project174\174.cpp(21,22): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project174\174.cpp(21,19): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project174\174.cpp(13,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project174.vcxproj -> D:\H\Code\Visual Studio 2019\Project174\Debug\Project174.exe

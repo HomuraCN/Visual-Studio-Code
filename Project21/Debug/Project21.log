@@ -1,0 +1,5 @@
+﻿  21.c
+D:\H\Code\Visual Studio 2019\Project21\21.c(8,7): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project21\21.c(10,7): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project21\21.c(6,1): warning C4305: “初始化”: 从“double”到“float”截断
+  Project21.vcxproj -> D:\H\Code\Visual Studio 2019\Project21\Debug\Project21.exe

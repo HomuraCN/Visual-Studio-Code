@@ -1,0 +1,12 @@
+﻿  617.cpp
+D:\H\Code\Visual Studio 2019\Project617\617.cpp(8,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project617\617.cpp(8,38): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project617\617.cpp(22,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\H\Code\Visual Studio 2019\Project617\617.cpp(22,11): message : 请考虑在格式字符串中使用“%lld”
+D:\H\Code\Visual Studio 2019\Project617\617.cpp(22,11): message : 请考虑在格式字符串中使用“%I64d”
+D:\H\Code\Visual Studio 2019\Project617\617.cpp(35,11): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
+D:\H\Code\Visual Studio 2019\Project617\617.cpp(35,11): message : 请考虑在格式字符串中使用“%lld”
+D:\H\Code\Visual Studio 2019\Project617\617.cpp(35,11): message : 请考虑在格式字符串中使用“%I64d”
+D:\H\Code\Visual Studio 2019\Project617\617.cpp(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project617\617.cpp(16,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project617.vcxproj -> D:\H\Code\Visual Studio 2019\Project617\Debug\Project617.exe

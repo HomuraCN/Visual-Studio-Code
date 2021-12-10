@@ -1,0 +1,7 @@
+﻿  50.c
+D:\H\Code\Visual Studio 2019\Project50\50.c(14,29): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project50\50.c(18,29): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project50\50.c(22,29): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project50\50.c(26,29): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project50\50.c(30,29): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  Project50.vcxproj -> D:\H\Code\Visual Studio 2019\Project50\Debug\Project50.exe

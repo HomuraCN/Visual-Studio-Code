@@ -1,0 +1,5 @@
+﻿  224.cpp
+D:\H\Code\Visual Studio 2019\Project224\224.cpp(48,12): warning C4566: 由通用字符名称“\u2212”表示的字符不能在当前代码页(936)中表示出来
+D:\H\Code\Visual Studio 2019\Project224\224.cpp(34,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project224\224.cpp(37,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project224.vcxproj -> D:\H\Code\Visual Studio 2019\Project224\Debug\Project224.exe

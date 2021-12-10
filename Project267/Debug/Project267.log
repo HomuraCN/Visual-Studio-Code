@@ -1,0 +1,6 @@
+﻿  267.cpp
+D:\H\Code\Visual Studio 2019\Project267\267.cpp(9,2): warning C4091: “typedef ”: 没有声明变量时忽略“Time”的左侧
+D:\H\Code\Visual Studio 2019\Project267\267.cpp(20,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project267\267.cpp(23,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project267\267.cpp(69,20): warning C4018: “<”: 有符号/无符号不匹配
+  Project267.vcxproj -> D:\H\Code\Visual Studio 2019\Project267\Debug\Project267.exe

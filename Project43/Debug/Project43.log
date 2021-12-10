@@ -1,0 +1,16 @@
+﻿  43.c
+D:\H\Code\Visual Studio 2019\Project43\43.c(8,10): warning C4477: “scanf_s”: 格式字符串“%c”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“int *”
+D:\H\Code\Visual Studio 2019\Project43\43.c(8,10): message : 此参数用作缓冲区大小
+D:\H\Code\Visual Studio 2019\Project43\43.c(8,10): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 6 拥有了类型“char *”
+D:\H\Code\Visual Studio 2019\Project43\43.c(8,10): message : 请考虑在格式字符串中使用“%hhd”
+D:\H\Code\Visual Studio 2019\Project43\43.c(8,10): warning C4477: “scanf_s”: 格式字符串“%c”需要类型“char *”的参数，但可变参数 7 拥有了类型“int *”
+D:\H\Code\Visual Studio 2019\Project43\43.c(8,10): message : 此参数由转换说明符使用
+D:\H\Code\Visual Studio 2019\Project43\43.c(8,10): warning C4477: “scanf_s”: 格式字符串“%c”需要类型“unsigned int”的参数，但可变参数 8 拥有了类型“int *”
+D:\H\Code\Visual Studio 2019\Project43\43.c(8,10): message : 此参数用作缓冲区大小
+D:\H\Code\Visual Studio 2019\Project43\43.c(8,10): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 12 拥有了类型“char *”
+D:\H\Code\Visual Studio 2019\Project43\43.c(8,10): message : 请考虑在格式字符串中使用“%hhd”
+D:\H\Code\Visual Studio 2019\Project43\43.c(8,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\H\Code\Visual Studio 2019\Project43\43.c(8,10): message : 占位符和其参数预计 16 可变参数，但提供的却是 13 参数
+D:\H\Code\Visual Studio 2019\Project43\43.c(8,10): message : 缺失的可变参数 14 为格式字符串“%c”所需
+D:\H\Code\Visual Studio 2019\Project43\43.c(8,10): message : 此参数由转换说明符使用
+  Project43.vcxproj -> D:\H\Code\Visual Studio 2019\Project43\Debug\Project43.exe

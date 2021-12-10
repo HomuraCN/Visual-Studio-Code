@@ -1,0 +1,10 @@
+﻿  193.cpp
+D:\H\Code\Visual Studio 2019\Project193\193.cpp(25,23): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project193\193.cpp(13,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project193\193.cpp(17,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project193\193.cpp(24,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project193\193.cpp(38,12): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project193\193.cpp(41,13): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project193\193.cpp(45,13): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project193\193.cpp(58): warning C4715: “Partition”: 不是所有的控件路径都返回值
+  Project193.vcxproj -> D:\H\Code\Visual Studio 2019\Project193\Debug\Project193.exe

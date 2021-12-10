@@ -1,0 +1,6 @@
+﻿  202.cpp
+D:\H\Code\Visual Studio 2019\Project202\202.cpp(20,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project202\202.cpp(24,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project202\202.cpp(26,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project202\202.cpp(62): warning C4715: “Judge”: 不是所有的控件路径都返回值
+  Project202.vcxproj -> D:\H\Code\Visual Studio 2019\Project202\Debug\Project202.exe

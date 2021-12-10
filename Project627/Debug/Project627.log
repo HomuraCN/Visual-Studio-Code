@@ -1,0 +1,8 @@
+﻿  6287.cpp
+D:\H\Code\Visual Studio 2019\Project627\6287.cpp(9,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project627\6287.cpp(15,5): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project627\6287.cpp(17,9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project627\6287.cpp(37,26): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project627\6287.cpp(37,40): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project627\6287.cpp(40,19): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+  Project627.vcxproj -> D:\H\Code\Visual Studio 2019\Project627\Debug\Project627.exe

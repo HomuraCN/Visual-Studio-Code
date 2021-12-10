@@ -1,0 +1,5 @@
+﻿  46.c
+D:\H\Code\Visual Studio 2019\Project46\46.c(15,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project46\46.c(16,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project46\46.c(50,28): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  Project46.vcxproj -> D:\H\Code\Visual Studio 2019\Project46\Debug\Project46.exe

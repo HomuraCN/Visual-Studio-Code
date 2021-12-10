@@ -1,0 +1,7 @@
+﻿  58.c
+D:\H\Code\Visual Studio 2019\Project58\58.c(13,10): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\H\Code\Visual Studio 2019\Project58\58.c(13,10): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\H\Code\Visual Studio 2019\Project58\58.c(13,10): message : 缺失的可变参数 2 为格式字符串“%s”所需
+D:\H\Code\Visual Studio 2019\Project58\58.c(13,10): message : 此参数用作缓冲区大小
+D:\H\Code\Visual Studio 2019\Project58\58.c(10,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project58.vcxproj -> D:\H\Code\Visual Studio 2019\Project58\Debug\Project58.exe

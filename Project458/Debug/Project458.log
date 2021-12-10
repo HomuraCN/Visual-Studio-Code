@@ -1,0 +1,5 @@
+﻿  458.cpp
+D:\H\Code\Visual Studio 2019\Project458\458.cpp(18,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\H\Code\Visual Studio 2019\Project458\458.cpp(25,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\H\Code\Visual Studio 2019\Project458\458.cpp(35,21): warning C4018: “<”: 有符号/无符号不匹配
+  Project458.vcxproj -> D:\H\Code\Visual Studio 2019\Project458\Debug\Project458.exe

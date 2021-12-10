@@ -1,0 +1,7 @@
+﻿  498.cpp
+D:\H\Code\Visual Studio 2019\Project498\498.cpp(33,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\H\Code\Visual Studio 2019\Project498\498.cpp(17,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project498\498.cpp(20,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project498\498.cpp(62,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\H\Code\Visual Studio 2019\Project498\498.cpp(89,21): warning C4018: “<”: 有符号/无符号不匹配
+  Project498.vcxproj -> D:\H\Code\Visual Studio 2019\Project498\Debug\Project498.exe

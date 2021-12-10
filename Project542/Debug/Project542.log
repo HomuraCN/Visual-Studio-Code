@@ -1,0 +1,4 @@
+﻿  542.cpp
+D:\H\Code\Visual Studio 2019\Project542\542.cpp(3,18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project542\542.cpp(7,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project542.vcxproj -> D:\H\Code\Visual Studio 2019\Project542\Debug\Project542.exe

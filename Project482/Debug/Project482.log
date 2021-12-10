@@ -1,0 +1,5 @@
+﻿  482.cpp
+D:\H\Code\Visual Studio 2019\Project482\482.cpp(32,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\H\Code\Visual Studio 2019\Project482\482.cpp(18,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project482\482.cpp(21,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project482.vcxproj -> D:\H\Code\Visual Studio 2019\Project482\Debug\Project482.exe

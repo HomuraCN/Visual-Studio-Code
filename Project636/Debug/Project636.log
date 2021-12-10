@@ -1,0 +1,4 @@
+﻿  635.cpp
+D:\H\Code\Visual Studio 2019\Project636\635.cpp(9,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project636\635.cpp(11,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project636.vcxproj -> D:\H\Code\Visual Studio 2019\Project636\Debug\Project636.exe

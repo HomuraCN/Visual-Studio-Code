@@ -1,0 +1,6 @@
+﻿  497.cpp
+D:\H\Code\Visual Studio 2019\Project497\497.cpp(23,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project497\497.cpp(25,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project497\497.cpp(31,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project497\497.cpp(59,20): warning C4018: “<”: 有符号/无符号不匹配
+  Project497.vcxproj -> D:\H\Code\Visual Studio 2019\Project497\Debug\Project497.exe

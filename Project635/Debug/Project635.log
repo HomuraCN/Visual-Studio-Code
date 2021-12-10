@@ -1,0 +1,30 @@
+﻿  635.cpp
+D:\H\Code\Visual Studio 2019\Project635\635.cpp(10,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project635\635.cpp(16,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project635\635.cpp(19,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project635\635.cpp(21,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstddef(127,22): error C2676: 二进制“<”:“const _Ty”不定义该运算符或到预定义运算符可接收的类型的转换
+          with
+          [
+              _Ty=EMPLOYEE
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstddef(126): message : 在编译 类 模板 成员函数“bool std::less<_Ty>::operator ()(const _Ty &,const _Ty &) const”时
+          with
+          [
+              _Ty=EMPLOYEE
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xutility(1546): message : 查看对正在编译的函数 模板 实例化“bool std::less<_Ty>::operator ()(const _Ty &,const _Ty &) const”的引用
+          with
+          [
+              _Ty=EMPLOYEE
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\queue(295): message : 查看对正在编译的 类 模板 实例化“std::less<_Ty>”的引用
+          with
+          [
+              _Ty=EMPLOYEE
+          ]
+D:\H\Code\Visual Studio 2019\Project635\635.cpp(13): message : 查看对正在编译的 类 模板 实例化“std::priority_queue<EMPLOYEE,std::vector<EMPLOYEE,std::allocator<EMPLOYEE>>,std::less<_Ty>>”的引用
+          with
+          [
+              _Ty=EMPLOYEE
+          ]

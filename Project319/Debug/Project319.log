@@ -1,0 +1,5 @@
+﻿  319.cpp
+D:\H\Code\Visual Studio 2019\Project319\319.cpp(16,12): warning C4018: “<”: 有符号/无符号不匹配
+D:\H\Code\Visual Studio 2019\Project319\319.cpp(24,12): warning C4018: “<”: 有符号/无符号不匹配
+D:\H\Code\Visual Studio 2019\Project319\319.cpp(30,12): warning C4018: “<”: 有符号/无符号不匹配
+  Project319.vcxproj -> D:\H\Code\Visual Studio 2019\Project319\Debug\Project319.exe

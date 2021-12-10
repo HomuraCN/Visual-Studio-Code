@@ -1,0 +1,5 @@
+﻿  448.cpp
+D:\H\Code\Visual Studio 2019\Project448\448.cpp(158,13): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+D:\H\Code\Visual Studio 2019\Project448\448.cpp(159,13): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“std::string”
+D:\H\Code\Visual Studio 2019\Project448\448.cpp(16,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project448.vcxproj -> D:\H\Code\Visual Studio 2019\Project448\Debug\Project448.exe

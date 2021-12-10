@@ -1,0 +1,9 @@
+﻿  214.cpp
+D:\H\Code\Visual Studio 2019\Project214\214.cpp(36,26): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project214\214.cpp(21,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project214\214.cpp(25,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project214\214.cpp(76,13): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project214\214.cpp(99,11): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project214\214.cpp(117,13): warning C4244: “=”: 从“__int64”转换到“int”，可能丢失数据
+D:\H\Code\Visual Studio 2019\Project214\214.cpp(136,23): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+  Project214.vcxproj -> D:\H\Code\Visual Studio 2019\Project214\Debug\Project214.exe

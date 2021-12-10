@@ -1,0 +1,4 @@
+﻿  100.cpp
+D:\H\Code\Visual Studio 2019\Project100\100.cpp(19,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\H\Code\Visual Studio 2019\Project100\100.cpp(23,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Project100.vcxproj -> D:\H\Code\Visual Studio 2019\Project100\Debug\Project100.exe
